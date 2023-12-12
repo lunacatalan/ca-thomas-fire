@@ -1,7 +1,7 @@
 # CA Thomas Fire
 
 ## About 
-The Thomas Fire occured in 2017 and burned for over 40 days. The fire destroyed over 280,00 acres, destroyed 1,063 structures and resulted in one civilian and one firefighter fatality[^1]. Understanding the impact on Air Quality is important for public health advisories, and planning when the next fire occurs. 
+The Thomas Fire occured in 2017 and burned for over 40 days. The fire destroyed over 280,00 acres, destroyed 1,063 structures and resulted in one civilian and one firefighter fatality[^1]. Understanding the impact on Air Quality is important for public health advisories, and planning public and emergency response when the next fire occurs. 
 
 [^1] [Ventura County Fire Department](https://vcfd.org/news/vcfd-determines-cause-of-the-thomas-fire/#:~:text=The%20Thomas%20Fire%20started%20on,other%2C%20creating%20an%20electrical%20arc.)
 
